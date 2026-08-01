@@ -25,9 +25,6 @@ demonstrate core and intermediate SQL skills.
 
 ## Related Work
 
-I have also conducted a broader R-based enrollment benchmarking analysis:
+A broader R-based enrollment benchmarking analysis:
 [ucsd-ipeds-benchmarking](https://github.com/TeresaSSM/ucsd-ipeds-benchmarking)
 
-## Author
-
-Teresa McCarrell
