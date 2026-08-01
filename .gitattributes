@@ -1,2 +1,2 @@
-*.R linguist-detectable=false
+*.csv linguist-language=SQL
 *.r linguist-detectable=false
